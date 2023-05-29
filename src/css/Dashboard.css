@@ -1,0 +1,29 @@
+/* button {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    padding-top: 10px;
+    color:white;
+    cursor: pointer;
+ } */
+
+table {
+    width: 100%;
+}
+    
+tr {
+  border-bottom: 1.5px solid lightgray;
+}
+    
+th, td {
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    color: #6c757d;
+}
